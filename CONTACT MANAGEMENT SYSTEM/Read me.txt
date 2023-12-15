@@ -1,0 +1,17 @@
+
+
+Hi I,m Vinoth Associate_Trainer My Sample Project in Contact Management System,
+This Project Using the College Level Project Again Beginners Practices level Project.
+
+This Project using the core java up to File Handling Concept,
+If any Issue or Doubt Contact this id again any another projects contact to me,
+Guidance the Projects.
+
+~ Contact Management System - 2023 ~
+
+* 1. Create New Contact
+* 2. Contact Details
+* 3. Delete Contact
+* 4. Exit
+
+@ by Vinoth_associate_Trainer
