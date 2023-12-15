@@ -11,7 +11,8 @@ Guidance the Projects.
 
 * 1. Create New Contact
 * 2. Contact Details
-* 3. Delete Contact
-* 4. Exit
+* 3. Edit Contact
+* 4. Delete Contact
+* 5. Exit
 
 @ by Vinoth_associate_Trainer
